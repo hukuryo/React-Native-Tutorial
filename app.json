@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d077f44d-0b85-43c9-b457-a1071f33fd5a"
+      }
+    },
+    "owner": "ryohei.fukushima"
   }
 }
